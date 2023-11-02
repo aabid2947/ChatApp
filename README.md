@@ -14,8 +14,8 @@ This is a simple chat application built using FlutterFlow for the frontend and F
 
 ## Getting Started
 
-Install the apk and run this app in your device.
-or Visit this site for using this app [
+Install the apk and run this app in your device.[APK can be found in master branch along with flutter code]
+or Visit this site for using this app [https://chatapp-3qxmtc.flutterflow.app/]
 
 
 
